@@ -29,6 +29,10 @@ Visit `http://localhost:3000` to start shopping on a local server
 ## Screenshots
 
 ![Home](https://github.com/esokoletsky/e-commerce/blob/main/images/screen-shots/home.png)
+![Cart](https://github.com/esokoletsky/e-commerce/blob/main/images/screen-shots/cart.png)
+![Shipping](https://github.com/esokoletsky/e-commerce/blob/main/images/screen-shots/shipping.png)
+![Payment](https://github.com/esokoletsky/e-commerce/blob/main/images/screen-shots/payment.png)
+![Completed](https://github.com/esokoletsky/e-commerce/blob/main/images/screen-shots/checkout-completed.png)
 
 #### You can find me here
 
