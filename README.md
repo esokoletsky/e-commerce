@@ -1,8 +1,9 @@
 ## Hey, I'm Eugene!
 
-This is a fully functional e-commerce application. I was really excited about implementing Commerce.js I have built an e-commerce aplication from scratch before, but Commerce.js has drastically sped up the process. It allowed me to build and manage the shopping cart without having to create a back-end with a database, it also helped manage shipping and payment options. I believe Commerce.js is a great tool when you need to complete the project quickly while still delivering reliability. I really enjoyed working on this project because I love to learn different ways of getting the job done!
+This is a fully functional e-commerce application that works well on all screen sizes. I was really excited about implementing Commerce.js I have built an e-commerce aplication from scratch before, but Commerce.js has drastically sped up the process. It allowed me to build and manage the shopping cart without having to create a back-end with a database, it also helped manage shipping and payment options. I believe Commerce.js is a great tool when you need to complete the project quickly while still delivering reliability. I really enjoyed working on this project because I love to learn different ways of getting the job done!
 
 ## Built with these technologies:
+
 `Frontend` - React Hooks
 
 `Style` - Material-UI
