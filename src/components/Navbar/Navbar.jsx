@@ -34,7 +34,7 @@ const Navbar = ({ totalItems }) => {
               height='25px'
               className={classes.image}
             />
-            E-Comerce
+            E-Commerce
           </Typography>
           <div className={classes.grow} />
           {location.pathname === "/" && (
